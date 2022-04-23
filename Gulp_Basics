@@ -1,0 +1,5 @@
+Gulp:  It is a toolkit for automation of painful or time-consuming tasks in you development workflow.
+It is platform agnostic and build into all major IDEs and used with platforms like .net, node.js, java etc 
+It can be used with npm 
+
+Reference: https://gulpjs.com/docs/en/getting-started/quick-start
