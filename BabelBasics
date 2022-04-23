@@ -1,0 +1,10 @@
+What is Babel?
+Babel is a JavaScript transpiler that converts edge JavaScript into plain old ES5 JavaScript
+that can run in any browser (even the old ones).
+
+It makes available all the syntactical sugar that was added to JavaScript with the new ES6 specification, including classes, fat arrows and multiline strings.
+
+We can also optionally use it to transpile TypeScript into regular JavaScript that will run in a browser.
+
+Some good videos: 
+https://babeljs.io/videos.html
