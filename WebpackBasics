@@ -1,0 +1,16 @@
+Webpack is a bundler for modules. The main purpose is to bundle JavaScript files for usage in a browser
+
+At its core, webpack is a static module bundler for modern JavaScript applications. When webpack processes your application, 
+it internally builds a dependency graph from  one or more entry points and then combines every module your project 
+needs into one or more bundles, which are static assets to serve your content from.
+
+You can optionally use a config file to bundle your project. It has the following core concepts:
+- Entry - specifies entry point for bundling the dependency graph
+- Output - where to emit the bundle 
+- Loaders - allows webpack to  process other types of files i.e. other than javascript, json
+- plugins - bundle optimization, asset management and injection of environment variables.
+- Mode - By setting the mode parameter to either development, production or none - one can enable webpack's built-in optimization
+- Browser Compatibility - Webpack supports all browsers that are ES5-compliant (IE8 and below are not supported).
+
+
+https://webpack.js.org/concepts/
